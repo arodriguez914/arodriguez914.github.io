@@ -25,3 +25,8 @@ section {
   border-top: 3px dashed black;
   padding-left: 5px
 }
+
+p {
+  margin-right: 50%;
+  position:relative; bottom:70px;
+}
