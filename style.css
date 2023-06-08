@@ -1,1 +1,29 @@
+body {
+  background-color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 5%;
+  image: url(https://media.licdn.com/dms/image/C5603AQH02bPr5ucfVA/profile-displayphoto-shrink_800_800/0/1609891821964?e=2147483647&v=beta&t=rlaH3aBus3tY6eL86sLX4n-tESGnSuFscDfdtPpz5Ho)
+  
+}
 
+.exp-header {
+  text-transform: uppercase;
+  border-top: 3px dotted black;
+  border-bottom: 3px dotted black;
+  text-align: center;
+  background-color: rgba(200,245,39,0.1)
+}
+
+img {
+  width: 30%;
+  margin-left: 60%
+}
+
+h1 {
+  position:relative; left: 5px; top:50px; 
+}
+
+section {
+  border-top: 3px dashed black;
+  padding-left: 5px
+}
